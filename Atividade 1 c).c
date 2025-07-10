@@ -20,7 +20,7 @@ int main() {
     printf("Soma: %d\n", soma);
     printf("Subtração: %d\n", subtracao);
     printf("Multiplicação: %d\n", multiplicacao);
-    printf("Divisão: %.2f\n", divisao);
+    printf("Divisão: %f\n", divisao);
     printf("Quociente inteiro: %d\n", quociente);
     printf("Resto da divisão: %d\n", resto);
 
